@@ -1,5 +1,14 @@
 # aspnetcorem1
-git clone <url> (inside this folder must be saved the project or run the execution of yeoman)
+
+https://www.microsoft.com/net/core#windowsvs2017 (sdk core)
+
+
+`npm install -g yo generator-aspnetcore-spa` (installation yeoman for core)
+
+`yo aspnetcore-spa` creation solution .net with core and angular
+
+`git clone <url>` (inside this folder must be saved the project or run the execution of yeoman)
+
 
 
 1. `git pull origin master` (bring all changes from my repository remote)
