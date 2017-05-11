@@ -9,7 +9,8 @@ https://www.microsoft.com/net/core#windowsvs2017 (sdk core)
 
 `git clone <url>` (inside this folder must be saved the project or run the execution of yeoman)
 
-
+$Env:ASPNETCORE_ENVIRONMENT = "Development" 
+$Env:ASPNETCORE_ENVIRONMENT = "Production" 
 
 1. `git pull origin master` (bring all changes from my repository remote)
 2.  `git add .` (allow the creation of new files when exist a previous version)
