@@ -9,8 +9,16 @@ https://www.microsoft.com/net/core#windowsvs2017 (sdk core)
 
 `git clone <url>` (inside this folder must be saved the project or run the execution of yeoman)
 
-`$Env:ASPNETCORE_ENVIRONMENT = "Development"` 
+`$Env:ASPNETCORE_ENVIRONMENT = "Development"`D 
 `$Env:ASPNETCORE_ENVIRONMENT = "Production"` 
+
+you can add this variable to the system in windows 
+in
+control panel /system /advace system/enviroment variables and in system variables you will add 
+`variable name: ASPNETCORE_ENVIRONMENT`
+`variable value:Production`
+`variable value:Development`
+
 
 https://github.com/aspnet/DotNetTools/tree/dev/src/Microsoft.DotNet.Watcher.Tools
 add watcher to execute automaticaly wien tu need start a 
