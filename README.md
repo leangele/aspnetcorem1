@@ -35,3 +35,5 @@ add watcher to execute automaticaly wien tu need start a
 2.  `git add .` (allow the creation of new files when exist a previous version)
 3.  `git commit -am "mesage"` (create a restore point for the project localy)
 4.  `git push origin master` (send information to Repository remote)
+https://services.github.com/on-demand/downloads/es_ES/github-git-cheat-sheet.pdf
+reference for git hub
