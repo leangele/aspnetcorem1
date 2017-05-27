@@ -2,6 +2,16 @@
 
 https://www.microsoft.com/net/core#windowsvs2017 (sdk core)
 
+angular v4 typescript snipper author johnpapa
+ASP.NET helper
+Auto Import
+Beautify
+C#
+C# extension
+Docker
+HTML SCSS Support
+mssql
+REST Client
 
 `npm install -g yo generator-aspnetcore-spa` (installation yeoman for core)
 
